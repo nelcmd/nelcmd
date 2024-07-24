@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nelcmd, I have gotten back into coding after taking a break and I would like to pursue it as a career.
+- 👋 Hi, I’m @nelcmd, I have gotten back into coding after taking a break.
 - 👀 I’m interested in medicine as a carrer, however I love computeers and coding, so would definately love to keep this as a strong hooby.
 - 🌱 I’m currently learning Java/CSS from @coltsteele and Python from @techwithtim
 - 💞️ I’m looking to collaborate on anything that will help me develop futher as a coder
